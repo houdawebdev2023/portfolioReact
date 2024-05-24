@@ -1,0 +1,26 @@
+[
+    {
+        "id":2,
+        "fullName":"Kevin",
+        "address":"6 rue b",
+        "phoneNumber":"45823136",
+        "Email":"ke@yahoo.com"
+
+    },
+    {
+        "id":3,
+        "fullName":"Houda",
+        "address":"Anderlecht",
+        "phoneNumber":"7852365464",
+        "Email":"ke@yahoo.com"
+  
+    },
+    {
+        "id":4,
+        "fullName":"Samuel",
+        "address":"6 rue b",
+        "phoneNumber":"45823136",
+        "Email":"ke@yahoo.com"
+
+    }
+]
